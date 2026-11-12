@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on analysing Pizza Runner's business data using SQL Server. The goal was to explore customer orders, pizza preferences, runner performance, delivery efficiency, ingredient usage, and revenue.
 
+<img width="1263" height="945" alt="Screenshot 2026-11-12 121620" src="https://github.com/user-attachments/assets/606d28c2-2cca-4e9c-8c9d-3723fe6c691a" />
+
+
 The analysis is based on the Pizza Runner case study from the **8 Week SQL Challenge by Danny Ma**.
 
 ## Tools & Technologies
